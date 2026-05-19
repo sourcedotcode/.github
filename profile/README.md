@@ -3,7 +3,7 @@
 
 Heyya Everyone, welcome to the official source.code Organisation Page!!
 Most of our products are closed-source for Security Purposes, but if we do open-source something, you'll see it here!!
-We woul love to hear feedbacks and all!!! Join our [Discord Server](https://discord.gg/invite/zTkVukNKQt) for News, Community, Support and More!!!
+We would love to hear feedbacks and all!!! Join our [Discord Server](https://discord.gg/invite/zTkVukNKQt) for News, Community, Support and More!!!
 
 we'll add more here if needed...
 
